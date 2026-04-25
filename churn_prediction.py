@@ -1,10 +1,3 @@
-   CUSTOMER CHURN PREDICTION
- 
-  Objective : Predict if a customer will leave a service
-  Techniques: EDA, SMOTE, Logistic Regression, RF, XGBoost
-  Metrics   : Accuracy, Precision, Recall, F1, AUC-ROC
-=============================================================
-"""
 
 import numpy as np
 import pandas as pd
