@@ -1,9 +1,5 @@
-"""
-=============================================================
-  CAPSTONE PROJECT 2: CUSTOMER CHURN PREDICTION
-  Machine Learning with Python
-  Author: SPANDU | PES University
-=============================================================
+   CUSTOMER CHURN PREDICTION
+ 
   Objective : Predict if a customer will leave a service
   Techniques: EDA, SMOTE, Logistic Regression, RF, XGBoost
   Metrics   : Accuracy, Precision, Recall, F1, AUC-ROC
